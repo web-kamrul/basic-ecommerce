@@ -1,0 +1,16 @@
+1. Collect Back-end Documentation from Developer
+https://documenter.getpostman.com/view/9518923/2s946k6W8p#5df27a5a-622a-448e-b726-4d723323f29f
+
+2. Discover the Back-end Data Flow
+
+3. Create New Stand Alone Front-end Project
+
+4. Install Front-end Packages
+    - Axios ( for calling APi ) npm i axios
+    - React Hot Toast ( small notifications ) npm i react-hot-toast
+    - Bootstrap ( Minimal Design - css ) npm i bootstrap
+    - React-Bootstrap ( Dedicated for Bootstrap -js ) npm install react-bootstrap
+    - Bootstrap Icon ( icon ) npm i bootstrap-icons
+    - React Router DOM ( Navigate all pages and jumping ) npm i react-router-dom
+
+5. Project Structure
