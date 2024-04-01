@@ -18,3 +18,9 @@ https://documenter.getpostman.com/view/9518923/2s946k6W8p#5df27a5a-622a-448e-b72
 6. Initial Route Setup in App.jsx
 
 7. Master Layout
+
+8. Conditional Protective Routing Setup Login and Logout Navbar
+
+9. 404 Page Setup
+
+10. Dynamic Product List
